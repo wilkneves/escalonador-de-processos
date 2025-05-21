@@ -6,7 +6,6 @@ Esse projeto simula um escalonador de processos para sistemas operacionais. Impl
 ## 👨‍💻 Algoritmos Implementados
 - SJF (Shortest Job First): executa o processo com menor tempo de execução.
 - FIFO (First in - First Out): executa o processo que chegou em primeiro lugar.
-- RR (Roundrobin): executa o processo de acordo com um quantum de tempo.
 
 ## 📩 Como Executar
 1. Clone o repositório:
